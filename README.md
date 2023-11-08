@@ -1,2 +1,2 @@
-# myDigitalResume
-Creating my digital Resume using Python
+# My Digital Resume
+Create a Digital Resume using Python and Streamlit
